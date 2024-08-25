@@ -1,7 +1,0 @@
-C:\Users\user\source\repos\Homework Lesson 15 (if calculator)\bin\Debug\Homework Lesson 15 (if calculator).exe.config
-C:\Users\user\source\repos\Homework Lesson 15 (if calculator)\bin\Debug\Homework Lesson 15 (if calculator).exe
-C:\Users\user\source\repos\Homework Lesson 15 (if calculator)\bin\Debug\Homework Lesson 15 (if calculator).pdb
-C:\Users\user\source\repos\Homework Lesson 15 (if calculator)\obj\Debug\Homework Lesson 15 (if calculator).csproj.AssemblyReference.cache
-C:\Users\user\source\repos\Homework Lesson 15 (if calculator)\obj\Debug\Homework Lesson 15 (if calculator).csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\Homework Lesson 15 (if calculator)\obj\Debug\Homework Lesson 15 (if calculator).exe
-C:\Users\user\source\repos\Homework Lesson 15 (if calculator)\obj\Debug\Homework Lesson 15 (if calculator).pdb
